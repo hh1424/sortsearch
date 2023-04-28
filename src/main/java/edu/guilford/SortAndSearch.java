@@ -2,8 +2,7 @@ package edu.guilford;
 
 public class SortAndSearch {
     // Add a static selectionSort method that takes an array of integers as a
-    // parameter
-    // and sorts the array using the selection sort algorithm
+    // parameter and sorts the array using the selection sort algorithm
     public static void selectionSort(int[] array) {
         // Loop over all the elements in the array and find the smallest element
         // Note it's a counting loop and a for loop is effective
