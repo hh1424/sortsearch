@@ -17,6 +17,8 @@ public class SortSearch {
             array[i] = rand.nextInt(1, RANGE + 1);
         }
         // System.out.println("Original: " + Arrays.toString(array));
+       
+       
         // Time how long it takes to sort the array
         long startTime = System.nanoTime();
         // Sort the array using the selection sort algorithm
